@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/CSSA-web-new/static/css/main.5679de7f.css",
-    "main.js": "/CSSA-web-new/static/js/main.7f2a52ac.js",
-    "static/media/AboutUs.jpeg": "/CSSA-web-new/static/media/AboutUs.5fb765be95a2ba450f31.jpeg",
-    "static/media/logo.png": "/CSSA-web-new/static/media/logo.69d2f8121c0fd1fc66c9.png",
-    "static/media/wechat.JPG": "/CSSA-web-new/static/media/wechat.17348619411c2c734046.JPG",
-    "index.html": "/CSSA-web-new/index.html",
-    "main.5679de7f.css.map": "/CSSA-web-new/static/css/main.5679de7f.css.map",
-    "main.7f2a52ac.js.map": "/CSSA-web-new/static/js/main.7f2a52ac.js.map"
+    "main.css": "./CSSA-web-new/static/css/main.5679de7f.css",
+    "main.js": "./CSSA-web-new/static/js/main.8437cd32.js",
+    "static/media/AboutUs.jpeg": "./CSSA-web-new/static/media/AboutUs.5fb765be95a2ba450f31.jpeg",
+    "static/media/logo.png": "./CSSA-web-new/static/media/logo.69d2f8121c0fd1fc66c9.png",
+    "static/media/wechat.JPG": "./CSSA-web-new/static/media/wechat.17348619411c2c734046.JPG",
+    "index.html": "./CSSA-web-new/index.html",
+    "main.5679de7f.css.map": "./CSSA-web-new/static/css/main.5679de7f.css.map",
+    "main.8437cd32.js.map": "./CSSA-web-new/static/js/main.8437cd32.js.map"
   },
   "entrypoints": [
     "static/css/main.5679de7f.css",
-    "static/js/main.7f2a52ac.js"
+    "static/js/main.8437cd32.js"
   ]
 }
